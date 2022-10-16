@@ -13,9 +13,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
+- 🎓 &nbsp; Studied Software Development with the University of Denver (2022)
 - 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
+- Open for project collaboration and job opportunities (especially back-end). 
 
 <h3>🛠 Tech Stack</h3>
 
