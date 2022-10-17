@@ -1,29 +1,24 @@
-### Hi there 👋
+### Hi there 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Micah!
+- 🌱 I’m currently learning React and Vuejs frameworks!
+- 👯 I’m looking to collaborate on projects using MongoDB or SQL
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be a sports performance coach so ask me about anything exercise related!
 -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Software Development with the University of Denver (2022)
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
 - Open for project collaboration and job opportunities (especially back-end). 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Javascript | 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
+- 🔧 &nbsp; Git 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mbottoms3&show_icons=true)
