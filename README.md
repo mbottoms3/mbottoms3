@@ -25,7 +25,6 @@ I'm Micah!
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/micah-bottoms-09a096246/) 👨🏻‍💻
  - Send Me an [Email](mailto:bottoms.micah.3@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/mbottoms3)
 
