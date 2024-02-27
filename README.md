@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 I'm Micah!
-- 🌱 I’m currently learning React and Vuejs frameworks!
+- 🌱 I currently work with Vuejs framework and Quasar library!
 - 👯 I’m looking to collaborate on projects using MongoDB or SQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a sports performance coach so ask me about anything exercise related!
@@ -11,12 +11,12 @@ I'm Micah!
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Software Development with the University of Denver (2022)
-- Open for project collaboration and job opportunities (especially back-end). 
+- Open for project collaboration and job opportunities (especially front-end). 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Javascript | 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | Quasar | Tailwind CSS | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 
