@@ -15,8 +15,8 @@ I'm Micah!
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | 
-- 🌐 &nbsp; HTML | CSS | Quasar | Tailwind CSS | Node.js | ReactJS
+- 💻 &nbsp; Javascript | 
+- 🌐 &nbsp; HTML | CSS | Quasar | Tailwind CSS | Node.js | VueJs
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 
